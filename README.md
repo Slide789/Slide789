@@ -9,7 +9,7 @@
 - 🌐 I'm particularly interested in **networking, systems administration, and automation with Python**.
 - 🎓 Always learning.
 - 💬 You can reach me on **Discord**: `slide123456`
-- 
+  
 ---
 
 Thanks for stopping by! 🚀
