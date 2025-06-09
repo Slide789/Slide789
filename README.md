@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Slide</h1>
 <h3 align="center">Python Developer | Networking Enthusiast | Automation Fan</h3>
 
 ---
