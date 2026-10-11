@@ -1,29 +1,28 @@
 # Hi, I'm Slide.
 
-I build personal projects and useful tools around my own ideas and everyday problems.
+I create personal projects and useful tools based on my own ideas and needs.
 
-This is where I share what I build and learn, from small experiments to more developed projects.
-
+This is where I share my work, ranging from small ideas to bigger projects
 ## What you'll find here
 
-- **Personal projects** — ideas turned into working software.
-- **Useful tools** — practical solutions for everyday tasks.
-- **Project write-ups** — features, screenshots, and the decisions behind the work.
+- **Personal projects** — ideas which turned into software.
+- **Useful tools** — tools that help me with day-to-day tasks.
+- **Project write-ups** — features, screenshots, implementations.
 
-## Currently building
+## Currently working on
 
-I'm putting together a new collection of projects and documenting them as they develop.
+A new collection of my projects that I'm currently developing and writing up.
 
 ## Selected project
 
 ### [EAFC Galaxy](https://github.com/Slide789/eafc-galaxy-showcase)
 
-A custom community bot with ticket workflows, moderation, and administration tools.
+A custom community bot with ticket systems, moderation, and administration tools.
 
 **Python · discord.py · PostgreSQL**
 
-Explore the [project showcase](https://github.com/Slide789/eafc-galaxy-showcase) for features, architecture, and design decisions. The source code is private.
+Check out [project showcase](https://github.com/Slide789/eafc-galaxy-showcase) for features, architecture, and decisions. The source code is not open-source.
 
 ---
 
-Explore my public repositories below.
+Check out my public repositories below.
