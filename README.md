@@ -14,7 +14,15 @@ This is where I share what I build and learn, from small experiments to more dev
 
 I'm putting together a new collection of projects and documenting them as they develop.
 
-One of my ongoing projects is **EAFC Galaxy**, a custom community bot with ticket workflows, moderation, and administration tools. Its source code is private; a separate public project showcase is planned.
+## Selected project
+
+### [EAFC Galaxy](https://github.com/Slide789/eafc-galaxy-showcase)
+
+A custom community bot with ticket workflows, moderation, and administration tools.
+
+**Python · discord.py · PostgreSQL**
+
+Explore the [project showcase](https://github.com/Slide789/eafc-galaxy-showcase) for features, architecture, and design decisions. The source code is private.
 
 ---
 
