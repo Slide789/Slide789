@@ -19,13 +19,13 @@ I'm a first-year apprentice IT Specialist for System Integration (Fachinformatik
 My work covers system administration, networking and server operations on Linux and Windows Server.
 
 Outside of work I develop Python applications, mainly desktop tools and automation for problems I run into myself.
-I'm also learning the basics of IT security. My current project is Secret Sanitizer, a tool that detects and removes secrets from files. It is private for now.
+I'm also learning the basics of IT security. My current project is Secret Sanitizer, a tool that detects and removes secrets from files, which I'm keeping private for now.
 
 My long-term goal is a career in AI infrastructure. I'm particularly interested in how AI models work internally and how they compare on different tasks.
 
 ### Currently learning
 
-My company works with Active Directory, Docker, Ansible, Proxmox, VMware and Hyper-V, and these are the technologies I'm focusing on next during my apprenticeship.
+My company works with Active Directory, Docker, Ansible, Proxmox, VMware and Hyper-V. Those are the technologies I'm focusing on next in my apprenticeship.
 Alongside that, I'm learning how large language models work and how to evaluate them.
 
 ### Tech stack
